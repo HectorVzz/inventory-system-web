@@ -10,7 +10,7 @@ const Home: NextPage = () => {
       </Typography>
       <video width="480" height="480" controls>
         <source src="../resource/videoChido.mp4" type="video/mp4"/>
-      Your browser does not support the video tag.
+      Your browser does not support the video tag. testing merge request
       </video>
     </div>
   )
